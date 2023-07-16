@@ -8,4 +8,4 @@ git reset <commitId> -- reset back to the state of given commitId
 git stash
 git stash pop
 git stash clear
-
+git remote add origin <url>
