@@ -1,0 +1,6 @@
+git init
+git add 
+git status
+git commit -m ""
+git restore --staged <filename> --> unstage a file/s
+git log --> this will show all the commits
