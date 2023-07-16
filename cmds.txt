@@ -5,4 +5,7 @@ git commit -m ""
 git restore --staged <filename> --> unstage a file/s
 git log --> this will show all the commits
 git reset <commitId> -- reset back to the state of given commitId
+git stash
+git stash pop
+git stash clear
 
