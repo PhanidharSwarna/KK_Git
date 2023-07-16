@@ -9,3 +9,4 @@ git stash
 git stash pop
 git stash clear
 git remote add origin <url>
+git push -u origin main
